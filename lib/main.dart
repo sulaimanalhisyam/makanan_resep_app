@@ -60,8 +60,8 @@ class __PageStateListState extends State<_PageList> {
     "assets/images/mietetekindomie.jpg",
     "assets/images/mieayam.jpg",
     "assets/images/milkshakeoreo.jpg",
-    "assets/images/milkshaketaro.jpg"
-        "assets/images/nasibakar.jpg",
+    "assets/images/milkshaketaro.jpg",
+    "assets/images/nasibakar.jpg",
     "assets/images/nasikebuli.jpg",
     "assets/images/nasipadang.jpg"
   ];
